@@ -1,80 +1,80 @@
 [{
-		"nome":"RioGrandeDoSul",
+		"nome":"Rio Grande do Sul",
 		 "lat":"-30.033914",
 		 "long":"-51.229154"
 	},
 	{
-		"nome":"SantaCatarina",
+		"nome":"Santa Catarina",
 		 "lat":"-27.593237",
 		 "long":"-48.543736"
 	},
 	{
-		"nome":"Parana",
+		"nome":"Paraná",
 		"lat":"-25.433171",
 		"long":"-49.27147"
 	},
 	{
-		"nome": "MatoGrossoDoSul",
+		"nome": "Mato Grosso do Sul",
 		"lat":"-20.461719",
 		"long": "-54.612237"
 	},
 	{
-		"nome":"MatoGrosso",
+		"nome":"Mato Grosso",
 		"lat":"-15.598917",
 		"long":"-56.094894"
 	},
 	{
-		"nome":"Goias",
+		"nome":"Goiás",
 		"lat" : "-16.67992",
 		"long": "-49.255032"
 	},
 	{
-		"nome":"DistritoFederal",
+		"nome":"Distrito Federal",
 		"lat": "-15.79983",
 		"long": "-47.863711"
 	},
 	{
-		"nome":"MinasGerais",
+		"nome":"Minas Gerais",
 		"lat": "-19.918339",
 		"long": "-43.940102"
 	},
 	{
-		"nome":"EspiritoSanto",
+		"nome":"Espírito Santo",
 	 	"lat": "-20.319933",
 		"long": "-40.336296"
 	},
 	{ 	
-		"nome": "RioDeJaneiro",
+		"nome": "Rio de Janeiro",
 		"lat":"-22.908892",
 		"long":"-43.177138"
 	},
 	{ 	
-		"nome": "SaoPaulo",
+		"nome": "São Paulo",
 		"lat":"-23.550483",
 		"long":"-46.633106"
 	},
 	{ 	
-		"nome": "Maranhao",
+		"nome": "Maranhão",
 		"lat":"-2.532066",
 		"long":"-44.299996"
 	},
 	{ 	
-		"nome": "Piaui",
+		"nome": "Piauí",
 		"lat":"-5.092628",
 		"long":"-42.810155"
 	},
 	{ 	
-		"nome": "Ceara",
+		"nome": "Ceará",
 		"lat":"-3.730536",
 		"long":"-38.521777"
 	},
 	{ 	
-		"nome": "RioGrandeDoNorte",
+		"nome": "Rio Grande do Norte",
 		"lat":"-5.786403",
 		"long":"-35.207978"
 	},
 	{ 	
-		"nome": "Paraiba",
+		"nome": "Paraíba",
 		"lat":"-7.120034",
 		"long":"-34.876211"
 	},
@@ -119,12 +119,12 @@
 		"long":"-60.672061"
 	},
 	{ 	
-		"nome": "Para",
+		"nome": "Pará",
 		"lat":"-1.452005",
 		"long":"-48.503072"
 	},
 	{ 	
-		"nome": "Amapa",
+		"nome": "Amapá",
 		"lat":"0.039045",
 		"long":"-51.050099"
 	},
